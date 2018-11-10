@@ -43,31 +43,19 @@ a {
 
 }
 
-p.size {
-    font-size: 15px;
+p.p-size {
+    color: #55534f;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
 
 }
 
-p {
-    
-    font-size: 15px;
+p.footerp1 {
+    font-size: 12px;
+    color: #55534f; 
 }
 
-}
-
-.dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-}
-
-.dropdown-content a:hover {background-color: #f1f1f1}
-
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-
-.dropdown:hover .dropbtn {
-    background-color: #3e8e41;
+p.footerp2 {
+    font-size: 12px;
+    color: #55534f;
 }
